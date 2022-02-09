@@ -12,8 +12,8 @@ I'm a self-taught passionate FrontEnd developer from Brazil
 - [x] JavaScript;
 - [x] React;
 
-| <a href="https://github.com/ricareiter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricareiter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo's github stats" /></a> | <a href="https://github.com/ricareiter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricareiter&layout=compact&theme=buefy&hide_border=true" /></a> |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricareiter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo's github stats" /></a> | <a href="https://github.com/ricareiter/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricareiter&layout=compact&theme=buefy&hide_border=true" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 #### Top Repositories
 
