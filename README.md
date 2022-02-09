@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Brazil
+I'm a self-taught passionate Front-End developer from Brazil
 
 <br />
 
