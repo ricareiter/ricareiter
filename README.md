@@ -17,6 +17,9 @@ I'm a self-taught passionate Front-End developer from Brazil
 
 #### Top Repositories
 
+<a href="https://github.com/ricareiter/ReWhats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricareiter&repo=ReWhats&theme=buefy" />
+</a>
 <a href="https://github.com/ricareiter/tip-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricareiter&repo=tip-calculator&theme=buefy" />
 </a>
@@ -36,6 +39,9 @@ I’m always looking for new challenges and opportunities to collaborate! Get in
 <p align="center">
     <a href="mailto:ricardoreiterr@gmail.com">
         <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
+    </a>
+    <a href="https://www.linkedin.com/in/ricardo-reiter-617593231/">
+        <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
     </a>
 </p>
 <br>
