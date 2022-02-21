@@ -40,7 +40,7 @@ I’m always looking for new challenges and opportunities to collaborate! Get in
     <a href="mailto:ricardoreiterr@gmail.com">
         <img alt="Contact me" src="https://img.shields.io/badge/-contact%20me-%23a960ff?style=for-the-badge&logo=Mail.Ru">
     </a>
-    <a href="https://www.linkedin.com/in/ricardo-reiter-617593231/">
+    <a href="https://www.linkedin.com/in/ricardoreiter/">
         <img alt="Follow me" src="https://img.shields.io/badge/-LinkedIn-%23a960ff?style=for-the-badge&logo=linkedin">
     </a>
 </p>
