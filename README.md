@@ -20,14 +20,14 @@ I'm a self-taught passionate Front-End Web Developer from Brazil
 
 #### Top Repositories
 
+<a href="https://github.com/ricareiter/react-admin-dashboard">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricareiter&repo=react-admin-dashboard&theme=buefy" />
+</a>
 <a href="https://github.com/ricareiter/movieO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricareiter&repo=movieO&theme=buefy" />
 </a>
 <a href="https://github.com/ricareiter/ReWhats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricareiter&repo=ReWhats&theme=buefy" />
-</a>
-<a href="https://github.com/ricareiter/cryptoApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricareiter&repo=cryptoApp&theme=buefy" />
 </a>
 <a href="https://github.com/ricareiter/tip-calculator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricareiter&repo=tip-calculator&theme=buefy" />
