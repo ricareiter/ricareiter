@@ -11,9 +11,8 @@ I'm a self-taught passionate Front-End Web Developer from Brazil
 - [x] HTML & CSS;
 - [x] JavaScript;
 - [x] React;
-- [x] Node.js;
-- [x] Express;
-- [x] MongoDB; 
+- [x] Ruby on Rails;
+- [x] Node.js; 
 
 | <a href="https://github-readme-stats.vercel.app/api?username=ricareiter"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricareiter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricareiter&layout=compact&theme=buefy&hide_border=true" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
