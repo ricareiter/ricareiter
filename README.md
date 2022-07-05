@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate Front-End Web Developer from Brazil
+I'm a self-taught passionate Full-Stack Web Developer from Brazil
 
 <br />
 
