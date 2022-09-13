@@ -18,8 +18,8 @@ I'm a self-taught passionate Full-Stack Web Developer from Brazil
 
 #### Top Repositories
 
-<a href="https://github.com/ricareiter/react-admin-dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricareiter&repo=react-admin-dashboard&theme=buefy" />
+<a href="https://github.com/ricareiter/supplied">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricareiter&repo=supplied&theme=buefy" />
 </a>
 <a href="https://github.com/ricareiter/movieO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricareiter&repo=movieO&theme=buefy" />
