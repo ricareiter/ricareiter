@@ -2,16 +2,16 @@
 
 <br />
 
-I'm a self-taught passionate Full-Stack Web Developer from Brazil
+Passionate Front-End Web Developer from Brazil
 
 <br />
 
 **Languages and Tools:**
 
-- [x] HTML & CSS;
-- [x] JavaScript;
+- [x] Javascript;
 - [x] React;
-- [x] Ruby on Rails;
+- [x] Tailwind;
+- [x] Next.Js;
 
 | <a href="https://github-readme-stats.vercel.app/api?username=ricareiter"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricareiter&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ricardo's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricareiter&layout=compact&theme=buefy&hide_border=true" /> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
