@@ -9,6 +9,7 @@ Passionate Front-End Web Developer from Brazil
 **Languages and Tools:**
 
 - [x] Javascript;
+- [x] Typescript; 
 - [x] React;
 - [x] Tailwind;
 - [x] Next.Js;
