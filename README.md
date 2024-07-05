@@ -31,6 +31,9 @@ Passionate Front-End Web Developer from Brazil
 <a href="https://github.com/ricareiter/bit-burger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricareiter&repo=bit-burger&theme=buefy" />
 </a>
+<a href="https://github.com/ricareiter/roamly">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ricareiter&repo=roamly&theme=buefy" />
+</a>
 
 <br />
 <br />
